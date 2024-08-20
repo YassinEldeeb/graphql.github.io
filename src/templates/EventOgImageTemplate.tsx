@@ -65,7 +65,7 @@ const EventOgImageTemplate = ({
             }}
           >
             <span style={{ fontWeight: "bolder" }}>GraphQLConf</span>
-            <span style={{ fontWeight: "normal" }}>2023</span>
+            <span style={{ fontWeight: "normal" }}>2024</span>
             <span
               style={{
                 backgroundColor: "#F5009B",
